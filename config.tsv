@@ -1,0 +1,2 @@
+peer_id	db_prog_path	db_log_path
+lgr_1	db/data.db	db/log.db

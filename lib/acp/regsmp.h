@@ -1,0 +1,18 @@
+
+#ifndef LIBPAS_ACP_REGSMP_H
+#define LIBPAS_ACP_REGSMP_H
+
+#define ACP_CMD_REGSMP_PROG_SET_HEATER_DELTA "rsmpshd"
+#define ACP_CMD_REGSMP_PROG_SET_HEATER_KP "rsmpshkp"
+#define ACP_CMD_REGSMP_PROG_SET_HEATER_KI "rsmpshki"
+#define ACP_CMD_REGSMP_PROG_SET_HEATER_KD "rsmpshkd"
+
+#define ACP_CMD_REGSMP_PROG_SET_COOLER_DELTA "rsmpscd"
+#define ACP_CMD_REGSMP_PROG_SET_COOLER_KP "rsmpsckp"
+#define ACP_CMD_REGSMP_PROG_SET_COOLER_KI "rsmpscki"
+#define ACP_CMD_REGSMP_PROG_SET_COOLER_KD "rsmpsckd"
+
+
+
+#endif 
+

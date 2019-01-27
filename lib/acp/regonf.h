@@ -1,0 +1,9 @@
+
+#ifndef LIBPAS_ACP_REGONF_H
+#define LIBPAS_ACP_REGONF_H
+
+#define ACP_CMD_REGONF_PROG_SET_HEATER_DELTA "ronfshd"
+#define ACP_CMD_REGONF_PROG_SET_COOLER_DELTA "ronfscd"
+
+#endif 
+

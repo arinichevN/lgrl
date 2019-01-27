@@ -1,0 +1,8 @@
+/.dep.inc
+/nbproject/
+/*.autosave
+/*_dbg
+/*.kdev4
+/*.o
+/lib/*.o
+
