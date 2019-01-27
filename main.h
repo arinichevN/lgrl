@@ -16,7 +16,7 @@
 #include "lib/acp/lgr.h"
 
 
-#define APP_NAME lgrl
+#define APP_NAME lgr
 #define APP_NAME_STR TOSTRING(APP_NAME)
 
 
